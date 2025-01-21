@@ -1,0 +1,17 @@
+:root {
+  --background: #0f1121;
+  --primary-color: #181e3a;
+  --secondary-color: #21294f;
+  --placeholder-color: #4f4f4f;
+  --accent-color: #0071db;
+  --text-color: #d6d6d6;
+  --subtext-color: #7c7c7c;
+  --input-color: #121324;
+  --separator-color: #2e3945;
+  --link-color: #0070da;
+  --link-hover: #599ad8;
+  --button-color: #004f9a;
+  --button-hover: #00386c;
+  --button-delete-hover: #ff5a5a;
+  --error: #ff3a3a;
+}

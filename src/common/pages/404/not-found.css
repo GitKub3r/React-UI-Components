@@ -1,0 +1,20 @@
+.not-found {
+  width: 100%;
+  min-height: 100dvh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found main {
+  width: fit-content;
+  padding: 1rem;
+
+  color: var(--text-color);
+  background-color: var(--primary-color);
+
+  border-radius: 0.5rem;
+
+  text-align: center;
+}
